@@ -44,3 +44,18 @@ export class ReportsService {
         return this.repo.save(report);
     }
 }
+// {
+//     make: 'ford',
+//     model: 'mustang',
+//     year: 1982,
+//     mileage: 50000,
+//     lng: 45,
+//     lat: 45,
+//     price: 200000,
+//     user: {
+//       id: 1,
+//       email: 'hvmnhatminh@gmail.com',
+//       password: 'Minh0914121791',
+//       admin: false
+//     }
+//   }
